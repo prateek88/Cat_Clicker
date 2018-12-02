@@ -1,0 +1,19 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  display: flex;
+}
+
+img {
+  height: 200px;
+  width: 250px;
+  cursor: pointer;
+}
+
+.cat {
+  /*text-align: center;*/
+  width: 300px;
+  margin: 10px;
+}
